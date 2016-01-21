@@ -7,6 +7,7 @@ boilerplate-generator@1.0.4
 caching-compiler@1.0.0
 caching-html-compiler@1.0.2
 check@1.1.0
+coderbhai:ionic@0.2.0
 deps@1.0.9
 diff-sequence@1.0.1
 ecmascript@0.1.6
@@ -27,7 +28,6 @@ iron:url@1.0.7
 jquery@1.11.4
 logging@1.0.8
 meteor@1.1.10
-meteoric:ionic@0.2.0
 minifiers@1.1.7
 mongo-id@1.0.1
 observe-sequence@1.0.7
