@@ -2,7 +2,7 @@ Package.describe({
   name: "meteoric:ionic",
   summary: "Ionic components for Meteor. No Angular!",
   version: "0.2.0",
-  git: "https://github.com/meteoric/meteor-ionic.git"
+  git: "https://github.com/coderbhai/meteor-ionic.git"
 });
 
 Cordova.depends({

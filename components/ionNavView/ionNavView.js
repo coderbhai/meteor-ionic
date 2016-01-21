@@ -43,7 +43,7 @@ Template.ionNavView.rendered = function () {
       }, 0);
 
       Meteor.setTimeout(function () {
-        $(this).removeClass('nav-view-entering');
+        $node.removeClass('nav-view-entering');
         $('[data-nav-container]').removeClass('nav-view-direction-back').addClass('nav-view-direction-forward');
       }, template.transitionDuration);
     },
